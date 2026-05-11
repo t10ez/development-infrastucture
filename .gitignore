@@ -1,3 +1,4 @@
-mongo
-redis
+.env
 .idea
+mongo/data
+redis/data
